@@ -13,6 +13,8 @@ print_hi('Tom')
 ```
 Welcome! We’re excited that you want to learn Docker.
 
+#Part 1 is here
+
 This guide contains step-by-step instructions on how to get started with Docker. Some of the things you’ll learn and do in this guide are:
 
 Build and run an image as a container
