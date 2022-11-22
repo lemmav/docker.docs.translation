@@ -1,7 +1,7 @@
 ---
 title: "Часть 1: Обзор"
 layout: default
-parent: Get started 
+parent: Начало
 nav_order: 1
 ---
 # [](#overview)Обзор
