@@ -5,4 +5,4 @@ nav_order: 1
 has_children: true
 ---
 
-[Часть 1: Обзор](part1.md)
+[Часть 1: Обзор](part1)
