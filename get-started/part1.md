@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Overwiew"
+title: "Часть 1: Обзор"
 layout: default
 parent: Get started 
 nav_order: 1
